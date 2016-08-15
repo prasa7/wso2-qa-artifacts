@@ -160,7 +160,7 @@
           </HeaderManager>
           <hashTree/>
           <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="Regular Expression Extractor" enabled="true">
-            <stringProp name="RegexExtractor.useHeaders">false</stringProp>
+            <stringProp name="RegexExtractor.useHeaders">true</stringProp>
             <stringProp name="RegexExtractor.refname">cookieID</stringProp>
             <stringProp name="RegexExtractor.regex">Set-Cookie: (.+?);</stringProp>
             <stringProp name="RegexExtractor.template">$1$</stringProp>
