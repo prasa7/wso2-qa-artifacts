@@ -5,7 +5,6 @@ restservice,TransportTeamService,1.0.0
 restservice,InternalAuditsInqueryService,1.0.0
 restservice,GeneralTeamService,1.0.0
 restservice,InternationalPostalService,1.0.0
-restservice,BuyMoreBillCalculateRESTAPI,1.0.0
 restservice,SwaggerdocumentationforGovernanceregistryRESTAPI,1.0.0
 restservice,TwitterRESTAPI,1.0.0
 restservice,SwaggerPetstore,1.0.0
